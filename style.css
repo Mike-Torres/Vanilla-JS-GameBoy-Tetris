@@ -1,0 +1,33 @@
+* {
+  padding: 0;
+  margin: 0;
+  background-color: #3f5fc2;
+}
+
+canvas {
+  background: #FBC610;
+  display: block;
+  margin: 0 auto;
+  border-radius: 25px;
+  margin-top: 3px;
+}
+
+.buttonA{
+  position: fixed;
+  background: red;
+  border-radius: 50%;
+  width: 100px;
+  length: 300px;
+  border: 2px;
+}
+
+.buttonB{
+  position: relative;
+  margin-left: 600px;
+  margin-bottom: 600px;
+  background: red;
+  border-radius: 50%;
+  width: 200px;
+  length: 200px;
+  border: black 2px;
+}
